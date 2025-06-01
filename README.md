@@ -79,14 +79,19 @@ The dataset contains biometric and activity information of individuals, split in
 
 ## 🛠️ Installation & Setup
 
-```bash
 # 1. Clone the repository
+```bash
 git clone https://github.com/your-username/calorie-prediction-model.git
 cd calorie-prediction-model
+```
 
 # 2. Create and activate a virtual environment (optional but recommended)
+```bash
 python -m venv venv
 source venv/bin/activate  # on Windows use `venv\Scripts\activate`
+```
 
 # 3. Install dependencies
+```bash
 pip install -r requirements.txt
+```
