@@ -81,7 +81,7 @@ The dataset contains biometric and activity information of individuals, split in
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/calorie-prediction-model.git
+git clone https://github.com/rohankharche34/calorie-prediction-model.git
 cd calorie-prediction-model
 ```
 
